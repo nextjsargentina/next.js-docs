@@ -1,6 +1,6 @@
 # Next.js v14 Documentation
 
-![nextjs](/public/nextjs14.png)
+![nextjs14](/public/nextjs14.png)
 
 _This is a Open Source Documentation for Next.js v14: AI Training with LLMs 🦾_
 
@@ -51,6 +51,8 @@ cd next.js-docs
 - **Start contributing!**
 
 ---
+
+![nextjs-logotype](/public/nextjs-logotype.png)
 
 ### Table of Contents
 
