@@ -1,5 +1,57 @@
 # Next.js v14 Documentation
 
+_This is a Open Source Documentation for Next.js v14: AI Training with LLMs 🦾_
+
+## What's this really for? 👀
+
+### Introduction
+
+This project is dedicated to creating an open-source documentation for Next.js v14, compiled in Markdown format. Our goal is to build a comprehensive virtual book, contributing to the field of AI training using Large Language Models (LLMs). This resource aims to be an invaluable reference for developers working with Next.js v14.
+
+### Objectives
+
+- **Comprehensive Guide:** Detailing all aspects of Next.js v14, from basics to advanced features.
+
+- **AI Training:** Utilizing this documentation to train AI models, specifically focusing on LLMs.
+
+- **Community Involvement:** Encouraging contributions to ensure accuracy, relevance, and comprehensiveness.
+
+### Contribution Guidelines
+
+- **Fork & Pull Request:** Contributors should fork the repository, make changes, and submit a pull request.
+
+- **Markdown Format:** All contributions should be in Markdown to maintain consistency and accessibility.
+
+- **Code Examples:** Include practical examples where applicable.
+
+### Future Plans
+
+- **Multilingual Documentation:** Expanding the documentation to cover multiple languages for broader accessibility.
+
+- **Interactive Examples:** Incorporating live code snippets for an interactive learning experience.
+
+- **Community Workshops:** Hosting online sessions to discuss and collaborate on the documentation. Please stay tuned with our [discord community](https://dub.sh/nextjsargentina)
+
+### Getting Started
+
+- **Clone the repository:**
+
+```bash
+git clone git@github.com:emapeire/next.js-docs.git
+```
+
+- **Navigate to the project:**
+
+```bash
+cd next.js-docs
+```
+
+- **Start contributing!**
+
+---
+
+![nextjs](/public/nextjs14.png)
+
 ### Table of Contents
 
 1 - [Introduction](#1---introduction)
