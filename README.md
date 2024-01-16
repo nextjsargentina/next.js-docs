@@ -2,7 +2,7 @@
 
 ![nextjs14](/public/images/nextjs14.png)
 
-_This is a Open Source Documentation for Next.js v14: AI Training with LLMs 🦾_
+> _This is a Open Source Documentation for Next.js v14: AI Training with LLMs 🦾_
 
 ## What's this really for? 👀
 
