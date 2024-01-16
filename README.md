@@ -24,7 +24,7 @@ This project is dedicated to creating an open-source documentation for Next.js v
 
 - **Markdown Format:** All contributions should be in Markdown to maintain consistency and accessibility.
 
-- **Documentation We Are Relying On:** We base our work on the [official Next.js documentation](https://nextjs.org/docs) and the compilation of version 14 in this [PDF document](/public/docs/next.js_v14_documentation.pdf).
+- **Documentation We Are Relying On:** We base our work on the [official Next.js documentation](https://nextjs.org/docs) and the compilation of v14 in this [PDF document](/public/docs/next.js_v14_documentation.pdf).
 
 ### Future Plans
 
@@ -32,7 +32,7 @@ This project is dedicated to creating an open-source documentation for Next.js v
 
 - **Interactive Examples:** Incorporating live code snippets for an interactive learning experience.
 
-- **Community Workshops:** Hosting online sessions to discuss and collaborate on the documentation. Please stay tuned with our [discord community](https://dub.sh/nextjsargentina)
+- **Community Workshops:** Hosting online sessions to discuss and collaborate on the documentation. Please stay tuned to our [discord community](https://dub.sh/nextjsargentina)
 
 ### Getting Started
 
