@@ -1,4 +1,4 @@
-# Next.js v14 Documentation
+# Next.js v14 Documentation (App-Router docs)
 
 ![nextjs14](/public/images/nextjs14.png)
 
