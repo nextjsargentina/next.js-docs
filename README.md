@@ -416,115 +416,115 @@ cd next.js-docs
 
 4.1.3.2 - [getStaticPaths](#4132---getstaticpaths)
 
-4.1.3.3 - [Forms and Mutations](#4.1.3.3---forms-and-mutations)
+4.1.3.3 - [Forms and Mutations](#4133---forms-and-mutations)
 
-4.1.3.4 - [getServerSideProps](#4.1.3.4---getserversideprops)
+4.1.3.4 - [getServerSideProps](#4134---getserversideprops)
 
-4.1.3.5 - [Incremental Static Regeneration](#4.1.3.5---incremental-static-regeneration)
+4.1.3.5 - [Incremental Static Regeneration](#4135---incremental-static-regeneration)
 
-4.1.3.6 - [Client-side Fetching](#4.1.3.6---client-side-fetching)
+4.1.3.6 - [Client-side Fetching](#4136---client-side-fetching)
 
-4.1.4 - [Styling](#4.1.4---styling)
+4.1.4 - [Styling](#414---styling)
 
-4.1.4.1 - [CSS Modules](#4.1.4.1---css-modules)
+4.1.4.1 - [CSS Modules](#4141---css-modules)
 
-4.1.4.2 - [Tailwind CSS](#4.1.4.2---tailwind-css)
+4.1.4.2 - [Tailwind CSS](#4142---tailwind-css)
 
-4.1.4.3 - [CSS-in-JS](#4.1.4.3---css-in-js)
+4.1.4.3 - [CSS-in-JS](#4143---css-in-js)
 
-4.1.4.4 - [Sass](#4.1.4.4---sass)
+4.1.4.4 - [Sass](#4144---sass)
 
-4.1.5 - [Optimizations](#4.1.5---optimizations)
+4.1.5 - [Optimizations](#415---optimizations)
 
-4.1.5.1 - [Image Optimization](#4.1.5.1---image-optimization)
+4.1.5.1 - [Image Optimization](#4151---image-optimization)
 
-4.1.5.2 - [Font Optimization](#4.1.5.2---font-optimization)
+4.1.5.2 - [Font Optimization](#4152---font-optimization)
 
-4.1.5.3 - [Script Optimization](#4.1.5.3---script-optimization)
+4.1.5.3 - [Script Optimization](#4153---script-optimization)
 
-4.1.5.4 - [Static Assets](#4.1.5.4---static-assets)
+4.1.5.4 - [Static Assets](#4154---static-assets)
 
-4.1.5.5 - [Lazy Loading](#4.1.5.5---lazy-loading)
+4.1.5.5 - [Lazy Loading](#4155---lazy-loading)
 
-4.1.5.6 - [Analytics](#4.1.5.6---analytics)
+4.1.5.6 - [Analytics](#4156---analytics)
 
-4.1.5.7 - [OpenTelemetry](#4.1.5.7---opentelemetry)
+4.1.5.7 - [OpenTelemetry](#4157---opentelemetry)
 
-4.1.5.8 - [Instrumentation](#4.1.5.8---instrumentation)
+4.1.5.8 - [Instrumentation](#4158---instrumentation)
 
-4.1.5.9 - [Third Party Libraries](#4.1.5.9---third-party-libraries)
+4.1.5.9 - [Third Party Libraries](#4159---third-party-libraries)
 
-4.1.6 - [Configuring](#4.1.6---configuring)
+4.1.6 - [Configuring](#416---configuring)
 
-4.1.6.1 - [TypeScript](#4.1.6.1---typescript)
+4.1.6.1 - [TypeScript](#4161---typescript)
 
-4.1.6.2 - [ESLint](#4.1.6.2---eslint)
+4.1.6.2 - [ESLint](#4162---eslint)
 
-4.1.6.3 - [Environment Variables](#4.1.6.3---environment-variables)
+4.1.6.3 - [Environment Variables](#4163---environment-variables)
 
-4.1.6.4 - [Absolute Imports and Module Path Aliases](#4.1.6.4---absolute-imports-and-module-path-aliases)
+4.1.6.4 - [Absolute Imports and Module Path Aliases](#4164---absolute-imports-and-module-path-aliases)
 
-4.1.6.5 - [src Directory](#4.1.6.5---src-directory)
+4.1.6.5 - [src Directory](#4165---src-directory)
 
-4.1.6.6 - [Markdown and MDX](#4.1.6.6---markdown-and-mdx)
+4.1.6.6 - [Markdown and MDX](#4166---markdown-and-mdx)
 
-4.1.6.7 - [AMP](#4.1.6.7---amp)
+4.1.6.7 - [AMP](#4167---amp)
 
-4.1.6.8 - [Babel](#4.1.6.8---babel)
+4.1.6.8 - [Babel](#4168---babel)
 
-4.1.6.9 - [PostCSS](#4.1.6.9---postcss)
+4.1.6.9 - [PostCSS](#4169---postcss)
 
-4.1.6.10 - [Custom Server](#4.1.6.10---custom-server)
+4.1.6.10 - [Custom Server](#41610---custom-server)
 
-4.1.6.11 - [Draft Mode](#4.1.6.11---draft-mode)
+4.1.6.11 - [Draft Mode](#41611---draft-mode)
 
-4.1.6.12 - [Error Handling](#4.1.6.12---error-handling)
+4.1.6.12 - [Error Handling](#41612---error-handling)
 
-4.1.6.13 - [Debugging](#4.1.6.13---debugging)
+4.1.6.13 - [Debugging](#41613---debugging)
 
-4.1.6.14 - [Preview Mode](#4.1.6.14---preview-mode)
+4.1.6.14 - [Preview Mode](#41614---preview-mode)
 
-4.1.6.15 - [Content Security Policy](#4.1.6.15---content-security-policy)
+4.1.6.15 - [Content Security Policy](#41615---content-security-policy)
 
-4.1.7 - [Testing](#4.1.7---testing)
+4.1.7 - [Testing](#417---testing)
 
-4.1.7.1 - [Setting up Vitest with Next.js](#4.1.7.1---setting-up-vitest-with-nextjs)
+4.1.7.1 - [Setting up Vitest with Next.js](#4171---setting-up-vitest-with-nextjs)
 
-4.1.7.2 - [Setting up Jest with Next.js](#4.1.7.2---setting-up-jest-with-nextjs)
+4.1.7.2 - [Setting up Jest with Next.js](#4172---setting-up-jest-with-nextjs)
 
-4.1.7.3 - [Setting up Playwright with Next.js](#4.1.7.3---setting-up-playwright-with-nextjs)
+4.1.7.3 - [Setting up Playwright with Next.js](#4173---setting-up-playwright-with-nextjs)
 
-4.1.7.4 - [Setting up Cypress with Next.js](#4.1.7.4---setting-up-cypress-with-nextjs)
+4.1.7.4 - [Setting up Cypress with Next.js](#4174---setting-up-cypress-with-nextjs)
 
-4.1.8 - [Deploying](#4.1.8---deploying)
+4.1.8 - [Deploying](#418---deploying)
 
-4.1.8.1 - [Going to Production](#4.1.8.1---going-to-production)
+4.1.8.1 - [Going to Production](#4181---going-to-production)
 
-4.1.8.2 - [Static Exports](#4.1.8.2---static-exports)
+4.1.8.2 - [Static Exports](#4182---static-exports)
 
-4.1.8.3 - [Multi Zones](#4.1.8.3---multi-zones)
+4.1.8.3 - [Multi Zones](#4183---multi-zones)
 
-4.1.8.4 - [Continuous Integration (CI) Build Caching](#4.1.8.4---continuous-integration-ci-build-caching)
+4.1.8.4 - [Continuous Integration (CI) Build Caching](#4184---continuous-integration-ci-build-caching)
 
-4.1.9 - [Upgrading](#4.1.9---upgrading)
+4.1.9 - [Upgrading](#419---upgrading)
 
-4.1.9.1 - [Codemods](#4.1.9.1---codemods)
+4.1.9.1 - [Codemods](#4191---codemods)
 
-4.1.9.2 - [From Pages to App](#4.1.9.2---from-pages-to-app)
+4.1.9.2 - [From Pages to App](#4192---from-pages-to-app)
 
-4.1.9.3 - [Version 14](#4.1.9.3---version-14)
+4.1.9.3 - [Version 14](#4193---version-14)
 
-4.1.9.4 - [Version 13](#4.1.9.4---version-13)
+4.1.9.4 - [Version 13](#4194---version-13)
 
-4.1.9.5 - [Version 12](#4.1.9.5---version-12)
+4.1.9.5 - [Version 12](#4195---version-12)
 
-4.1.9.6 - [Version 11](#4.1.9.6---version-11)
+4.1.9.6 - [Version 11](#4196---version-11)
 
-4.1.9.7 - [Version 10](#4.1.9.7---version-10)
+4.1.9.7 - [Version 10](#4197---version-10)
 
-4.1.9.8 - [Upgrading to Version 9](#4.1.9.8---upgrading-to-version-9)
+4.1.9.8 - [Upgrading to Version 9](#4198---upgrading-to-version-9)
 
-4.2 - [API Reference](#4.2---api-reference)
+4.2 - [API Reference](#42---api-reference)
 
 4.2.1 - [Components](#4.2.1---components)
 
