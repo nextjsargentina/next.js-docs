@@ -526,123 +526,123 @@ cd next.js-docs
 
 4.2 - [API Reference](#42---api-reference)
 
-4.2.1 - [Components](#4.2.1---components)
+4.2.1 - [Components](#421---components)
 
-4.2.1.1 - [Font Module](#4.2.1.1---font-module)
+4.2.1.1 - [Font Module](#4211---font-module)
 
-4.2.1.2 - [\<Head />](#4.2.1.2---head)
+4.2.1.2 - [Head](#4212---head)
 
-4.2.1.3 - [\<Image /> (Legacy)](#4.2.1.3---image-legacy)
+4.2.1.3 - [Image (Legacy)](#4213---image-legacy)
 
-4.2.1.4 - [\<Image />](#4.2.1.4---image)
+4.2.1.4 - [Image](#4214---image)
 
-4.2.1.5 - [\<Link />](#4.2.1.5---link)
+4.2.1.5 - [Link](#4215---link)
 
-4.2.1.6 - [\<Script />](#4.2.1.6---script)
+4.2.1.6 - [Script](#4216---script)
 
-4.2.2 - [Functions](#4.2.2---functions)
+4.2.2 - [Functions](#422---functions)
 
-4.2.2.1 - [getInitialProps](#4.2.2.1---getinitialprops)
+4.2.2.1 - [getInitialProps](#4221---getinitialprops)
 
-4.2.2.2 - [getServerSideProps](#4.2.2.2---getserversideprops)
+4.2.2.2 - [getServerSideProps](#4222---getserversideprops)
 
-4.2.2.3 - [getStaticPaths](#4.2.2.3---getstaticpaths)
+4.2.2.3 - [getStaticPaths](#4223---getstaticpaths)
 
-4.2.2.4 - [getStaticProps](#4.2.2.4---getstaticprops)
+4.2.2.4 - [getStaticProps](#4224---getstaticprops)
 
-4.2.2.5 - [NextRequest](#4.2.2.5---nextrequest)
+4.2.2.5 - [NextRequest](#4225---nextrequest)
 
-4.2.2.6 - [NextResponse](#4.2.2.6---nextresponse)
+4.2.2.6 - [NextResponse](#4226---nextresponse)
 
-4.2.2.7 - [useAmp](#4.2.2.7---useamp)
+4.2.2.7 - [useAmp](#4227---useamp)
 
-4.2.2.8 - [useReportWebVitals](#4.2.2.8---usereportwebvitals)
+4.2.2.8 - [useReportWebVitals](#4228---usereportwebvitals)
 
-4.2.2.9 - [useRouter](#4.2.2.9---userouter)
+4.2.2.9 - [useRouter](#4229---userouter)
 
-4.2.2.10 - [userAgent](#4.2.2.10---useragent)
+4.2.2.10 - [userAgent](#42210---useragent)
 
-4.2.3 - [next.config.js Options](#4.2.3---next.config-options)
+4.2.3 - [next.config.js Options](#423---nextconfigjs-options)
 
-4.2.3.1 - [assetPrefix](#4.2.3.1---assetprefix)
+4.2.3.1 - [assetPrefix](#4231---assetprefix)
 
-4.2.3.2 - [basePath](#4.2.3.2---basepath)
+4.2.3.2 - [basePath](#4232---basepath)
 
-4.2.3.3 - [compress](#4.2.3.3---compress)
+4.2.3.3 - [compress](#4233---compress)
 
-4.2.3.4 - [devIndicators](#4.2.3.4---devindicators)
+4.2.3.4 - [devIndicators](#4234---devindicators)
 
-4.2.3.5 - [distDir](#4.2.3.5---distdir)
+4.2.3.5 - [distDir](#4235---distdir)
 
-4.2.3.6 - [env](#4.2.3.6---env)
+4.2.3.6 - [env](#4236---env)
 
-4.2.3.7 - [eslint](#4.2.3.7---eslint)
+4.2.3.7 - [eslint](#4237---eslint)
 
-4.2.3.8 - [exportPathMap](#4.2.3.8---exportpathmap)
+4.2.3.8 - [exportPathMap](#4238---exportpathmap)
 
-4.2.3.9 - [generateBuildId](#4.2.3.9---generatebuildid)
+4.2.3.9 - [generateBuildId](#4239---generatebuildid)
 
-4.2.3.10 - [generateEtags](#4.2.3.10---generateetags)
+4.2.3.10 - [generateEtags](#42310---generateetags)
 
-4.2.3.11 - [headers](#4.2.3.11---headers)
+4.2.3.11 - [headers](#42311---headers)
 
-4.2.3.12 - [httpAgentOptions](#4.2.3.12---httpagentoptions)
+4.2.3.12 - [httpAgentOptions](#42312---httpagentoptions)
 
-4.2.3.13 - [images](#4.2.3.13---images)
+4.2.3.13 - [images](#42313---images)
 
-4.2.3.14 - [onDemandEntries](#4.2.3.14---ondemandentries)
+4.2.3.14 - [onDemandEntries](#42314---ondemandentries)
 
-4.2.3.15 - [output](#4.2.3.15---output)
+4.2.3.15 - [output](#42315---output)
 
-4.2.3.16 - [pageExtensions](#4.2.3.16---pageextensions)
+4.2.3.16 - [pageExtensions](#42316---pageextensions)
 
-4.2.3.17 - [poweredByHeader](#4.2.3.17---poweredbyheader)
+4.2.3.17 - [poweredByHeader](#42317---poweredbyheader)
 
-4.2.3.18 - [productionBrowserSourceMaps](#4.2.3.18---productionbrowsersourcemaps)
+4.2.3.18 - [productionBrowserSourceMaps](#42318---productionbrowsersourcemaps)
 
-4.2.3.19 - [reactStrictMode](#4.2.3.19---reactstrictmode)
+4.2.3.19 - [reactStrictMode](#42319---reactstrictmode)
 
-4.2.3.20 - [redirects](#4.2.3.20---redirects)
+4.2.3.20 - [redirects](#42320---redirects)
 
-4.2.3.21 - [rewrites](#4.2.3.21---rewrites)
+4.2.3.21 - [rewrites](#42321---rewrites)
 
-4.2.3.22 - [Runtime Config](#4.2.3.22---runtime-config)
+4.2.3.22 - [Runtime Config](#42322---runtime-config)
 
-4.2.3.23 - [trailingSlash](#4.2.3.23---trailingslash)
+4.2.3.23 - [trailingSlash](#42323---trailingslash)
 
-4.2.3.24 - [transpilePackages](#4.2.3.24---transpilepackages)
+4.2.3.24 - [transpilePackages](#42324---transpilepackages)
 
-4.2.3.25 - [turbo (experimental)](#4.2.3.25---turbo-experimental)
+4.2.3.25 - [turbo (experimental)](#42325---turbo-experimental)
 
-4.2.3.26 - [typescript](#4.2.3.26---typescript)
+4.2.3.26 - [typescript](#42326---typescript)
 
-4.2.3.27 - [urlImports](#4.2.3.27---urlimports)
+4.2.3.27 - [urlImports](#42327---urlimports)
 
-4.2.3.28 - [webVitalsAttribution](#4.2.3.28---webvitalsattribution)
+4.2.3.28 - [webVitalsAttribution](#42328---webvitalsattribution)
 
-4.2.3.29 - [Custom Webpack Config](#4.2.3.29---custom-webpack-config)
+4.2.3.29 - [Custom Webpack Config](#42329---custom-webpack-config)
 
-4.2.4 - [create-next-app](#4.2.4---create-next-app)
+4.2.4 - [create-next-app](#424---create-next-app)
 
-4.2.5 - [Next.js CLI](#4.2.5---nextjs-cli)
+4.2.5 - [Next.js CLI](#425---nextjs-cli)
 
-4.2.6 - [Edge Runtime](#4.2.6---edge-runtime)
+4.2.6 - [Edge Runtime](#426---edge-runtime)
 
 5 - [Architecture](#5---architecture)
 
-5.1 - [Accessibility](#5.1---accessibility)
+5.1 - [Accessibility](#51---accessibility)
 
-5.2 - [Fast Refresh](#5.2---fast-refresh)
+5.2 - [Fast Refresh](#52---fast-refresh)
 
-5.3 - [Next.js Compiler](#5.3---nextjs-compiler)
+5.3 - [Next.js Compiler](#53---nextjs-compiler)
 
-5.4 - [Supported Browsers](#5.4---supported-browsers)
+5.4 - [Supported Browsers](#54---supported-browsers)
 
-5.5 - [Turbopack](#5.5---turbopack)
+5.5 - [Turbopack](#55---turbopack)
 
 6 - [Next.js Community](#6---nextjs-community)
 
-6.1 - [Docs Contribution Guide](#6.1---docs-contribution-guide)
+6.1 - [Docs Contribution Guide](#61---docs-contribution-guide)
 
 ---
 
@@ -654,7 +654,7 @@ Documentation path: /index
 
 Welcome to the Next.js documentation!
 
-##### What is Next.js?
+#### What is Next.js?
 
 Next.js is a React framework for building full-stack web applications. You use React Components to build user interfaces, and Next.js
 
