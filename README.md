@@ -39,13 +39,13 @@ This project is dedicated to creating an open-source documentation for Next.js v
 - **Clone the repository:**
 
 ```bash
-git clone git@github.com:emapeire/next.js-docs.git
+git clone git@github.com:emapeire/nextjs-docs.git
 ```
 
 - **Navigate to the project:**
 
 ```bash
-cd next.js-docs
+cd nextjs-docs
 ```
 
 - **Start contributing!**
