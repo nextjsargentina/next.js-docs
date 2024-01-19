@@ -70,311 +70,311 @@ cd nextjs-docs
 
 1.1.1.4 - [Route Groups](#1114---route-groups)
 
-1.1.1.5 - [Dynamic Routes](#3115---dynamic-routes)
+1.1.1.5 - [Dynamic Routes](#1115---dynamic-routes)
 
-1.1.1.6 - [Loading UI and Streaming](#3116---loading-ui-and-streaming)
+1.1.1.6 - [Loading UI and Streaming](#1116---loading-ui-and-streaming)
 
-1.1.1.7 - [Error Handling](#3117---error-handling)
+1.1.1.7 - [Error Handling](#1117---error-handling)
 
-1.1.1.8 - [Parallel Routes](#3118---parallel-routes)
+1.1.1.8 - [Parallel Routes](#1118---parallel-routes)
 
-1.1.1.9 - [Intercepting Routes](#3119---intercepting-routes)
+1.1.1.9 - [Intercepting Routes](#1119---intercepting-routes)
 
-1.1.1.10 - [Route Handlers](#31110---route-handlers)
+1.1.1.10 - [Route Handlers](#11110---route-handlers)
 
-1.1.1.11 - [Middleware](#31111---middleware)
+1.1.1.11 - [Middleware](#11111---middleware)
 
-1.1.1.12 - [Project Organization and File Colocation](#31112---project-organization-and-file-colocation)
+1.1.1.12 - [Project Organization and File Colocation](#11112---project-organization-and-file-colocation)
 
-1.1.1.13 - [Internationalization](#31113---internationalization)
+1.1.1.13 - [Internationalization](#11113---internationalization)
 
-1.1.2 - [Data Fetching](#312---data-fetching)
+1.1.2 - [Data Fetching](#112---data-fetching)
 
-1.1.2.1 - [Data Fetching, Caching, and Revalidating](#3121---data-fetching-caching-and-revalidating)
+1.1.2.1 - [Data Fetching, Caching, and Revalidating](#1121---data-fetching-caching-and-revalidating)
 
-1.1.2.2 - [Server Actions and Mutations](#3122---server-actions-and-mutations)
+1.1.2.2 - [Server Actions and Mutations](#1122---server-actions-and-mutations)
 
-1.1.2.3 - [Patterns and Best Practices](#3123---patterns-and-best-practices)
+1.1.2.3 - [Patterns and Best Practices](#1123---patterns-and-best-practices)
 
-1.1.3 - [Rendering](#313---rendering)
+1.1.3 - [Rendering](#113---rendering)
 
-1.1.3.1 - [Server Components](#3131---server-components)
+1.1.3.1 - [Server Components](#1131---server-components)
 
-1.1.3.2 - [Client Components](#3132---client-components)
+1.1.3.2 - [Client Components](#1132---client-components)
 
-1.1.3.3 - [Server and Client Composition Patterns](#3133---server-and-client-composition-patterns)
+1.1.3.3 - [Server and Client Composition Patterns](#1133---server-and-client-composition-patterns)
 
-1.1.3.4 - [Edge and Node.js Runtimes](#3134---edge-and-nodejs-runtimes)
+1.1.3.4 - [Edge and Node.js Runtimes](#1134---edge-and-nodejs-runtimes)
 
-1.1.4 - [Caching in Next.js](#314---caching-in-nextjs)
+1.1.4 - [Caching in Next.js](#114---caching-in-nextjs)
 
-1.1.5 - [Styling](#315---styling)
+1.1.5 - [Styling](#115---styling)
 
-1.1.5.1 - [CSS Modules](#3151---css-modules)
+1.1.5.1 - [CSS Modules](#1151---css-modules)
 
-1.1.5.2 - [Tailwind CSS](#3152---tailwind-css)
+1.1.5.2 - [Tailwind CSS](#1152---tailwind-css)
 
-1.1.5.3 - [CSS-in-JS](#3153---css-in-js)
+1.1.5.3 - [CSS-in-JS](#1153---css-in-js)
 
-1.1.5.4 - [Sass](#3154---sass)
+1.1.5.4 - [Sass](#1154---sass)
 
-1.1.6 - [Optimizations](#316---optimizations)
+1.1.6 - [Optimizations](#116---optimizations)
 
-1.1.6.1 - [Image Optimization](#3161---image-optimization)
+1.1.6.1 - [Image Optimization](#1161---image-optimization)
 
-1.1.6.2 - [Font Optimization](#3162---font-optimization)
+1.1.6.2 - [Font Optimization](#1162---font-optimization)
 
-1.1.6.3 - [Script Optimization](#3163---script-optimization)
+1.1.6.3 - [Script Optimization](#1163---script-optimization)
 
-1.1.6.4 - [Metadata](#3164---metadata)
+1.1.6.4 - [Metadata](#1164---metadata)
 
-1.1.6.5 - [Static Assets](#3165---static-assets)
+1.1.6.5 - [Static Assets](#1165---static-assets)
 
-1.1.6.6 - [Lazy Loading](#3166---lazy-loading)
+1.1.6.6 - [Lazy Loading](#1166---lazy-loading)
 
-1.1.6.7 - [Analytics](#3167---analytics)
+1.1.6.7 - [Analytics](#1167---analytics)
 
-1.1.6.8 - [OpenTelemetry](#3168---opentelemetry)
+1.1.6.8 - [OpenTelemetry](#1168---opentelemetry)
 
-1.1.6.9 - [Instrumentation](#3169---instrumentation)
+1.1.6.9 - [Instrumentation](#1169---instrumentation)
 
-1.1.6.10 - [Third Party Libraries](#31610---third-party-libraries)
+1.1.6.10 - [Third Party Libraries](#11610---third-party-libraries)
 
-1.1.7 - [Configuring](#317---configuring)
+1.1.7 - [Configuring](#117---configuring)
 
-1.1.7.1 - [TypeScript](#3171---typescript)
+1.1.7.1 - [TypeScript](#1171---typescript)
 
-1.1.7.2 - [ESLint](#3172---eslint)
+1.1.7.2 - [ESLint](#1172---eslint)
 
-1.1.7.3 - [Environment Variables](#3173---environment-variables)
+1.1.7.3 - [Environment Variables](#1173---environment-variables)
 
-1.1.7.4 - [Absolute Imports and Module Path Aliases](#3174---absolute-imports-and-module-path-aliases)
+1.1.7.4 - [Absolute Imports and Module Path Aliases](#1174---absolute-imports-and-module-path-aliases)
 
-1.1.7.5 - [Markdown and MDX](#3175---markdown-and-mdx)
+1.1.7.5 - [Markdown and MDX](#1175---markdown-and-mdx)
 
-1.1.7.6 - [src Directory](#3176---src-directory)
+1.1.7.6 - [src Directory](#1176---src-directory)
 
-1.1.7.7 - [Draft Mode](#3177---draft-mode)
+1.1.7.7 - [Draft Mode](#1177---draft-mode)
 
-1.1.7.8 - [Content Security Policy](#3178---content-security-policy)
+1.1.7.8 - [Content Security Policy](#1178---content-security-policy)
 
-1.1.8 - [Testing](#318---testing)
+1.1.8 - [Testing](#118---testing)
 
-1.1.8.1 - [Setting up Vitest with Next.js](#3181---setting-up-vitest-with-nextjs)
+1.1.8.1 - [Setting up Vitest with Next.js](#1181---setting-up-vitest-with-nextjs)
 
-1.1.8.2 - [Setting up Jest with Next.js](#3182---setting-up-jest-with-nextjs)
+1.1.8.2 - [Setting up Jest with Next.js](#1182---setting-up-jest-with-nextjs)
 
-1.1.8.3 - [Setting up Playwright with Next.js](#3183---setting-up-playwright-with-nextjs)
+1.1.8.3 - [Setting up Playwright with Next.js](#1183---setting-up-playwright-with-nextjs)
 
-1.1.8.4 - [Setting up Cypress with Next.js](#3184---setting-up-cypress-with-nextjs)
+1.1.8.4 - [Setting up Cypress with Next.js](#1184---setting-up-cypress-with-nextjs)
 
-1.1.9 - [Deploying](#319---deploying)
+1.1.9 - [Deploying](#119---deploying)
 
-1.1.9.1 - [Static Exports](#3191---static-exports)
+1.1.9.1 - [Static Exports](#1191---static-exports)
 
-1.1.10 - [Upgrade Guide](#3110---upgrade-guide)
+1.1.10 - [Upgrade Guide](#1110---upgrade-guide)
 
-1.1.10.1 - [Codemods](#31101---codemods)
+1.1.10.1 - [Codemods](#11101---codemods)
 
-1.1.10.2 - [App Router Incremental Adoption Guide](#31102---app-router-incremental-adoption-guide)
+1.1.10.2 - [App Router Incremental Adoption Guide](#11102---app-router-incremental-adoption-guide)
 
-1.1.10.3 - [Version 14](#31103---version-14)
+1.1.10.3 - [Version 14](#11103---version-14)
 
-1.1.10.4 - [Migrating from Vite](#31104---migrating-from-vite)
+1.1.10.4 - [Migrating from Vite](#11104---migrating-from-vite)
 
-1.2 - [API Reference](#32---api-reference)
+1.2 - [API Reference](#12---api-reference)
 
-1.2.1 - [Components](#321---components)
+1.2.1 - [Components](#121---components)
 
-1.2.1.1 - [Font Module](#3211---font-module)
+1.2.1.1 - [Font Module](#1211---font-module)
 
-1.2.1.2 - [Image](#3212---image)
+1.2.1.2 - [Image](#1212---image)
 
-1.2.1.3 - [Link](#3213---link)
+1.2.1.3 - [Link](#1213---link)
 
-1.2.1.4 - [Script](#3214---script)
+1.2.1.4 - [Script](#1214---script)
 
-1.2.2 - [File Conventions](#322---file-conventions)
+1.2.2 - [File Conventions](#122---file-conventions)
 
-1.2.2.1 - [Metadata Files API Reference](#3221---metadata-files-api-reference)
+1.2.2.1 - [Metadata Files API Reference](#1221---metadata-files-api-reference)
 
-1.2.2.1.1 - [favicon, icon, and apple-icon](#32211---favicon-icon-and-apple-icon)
+1.2.2.1.1 - [favicon, icon, and apple-icon](#12211---favicon-icon-and-apple-icon)
 
-1.2.2.1.2 - [manifest.json](#32212---manifestjson)
+1.2.2.1.2 - [manifest.json](#12212---manifestjson)
 
-1.2.2.1.3 - [opengraph-image and twitter-image](#32213---opengraph-image-and-twitter-image)
+1.2.2.1.3 - [opengraph-image and twitter-image](#12213---opengraph-image-and-twitter-image)
 
-1.2.2.1.4 - [robots.txt](#32214---robotstxt)
+1.2.2.1.4 - [robots.txt](#12214---robotstxt)
 
-1.2.2.1.5 - [sitemap.xml](#32215---sitemapxml)
+1.2.2.1.5 - [sitemap.xml](#12215---sitemapxml)
 
-1.2.2.2 - [default.js](#3222---defaultjs)
+1.2.2.2 - [default.js](#1222---defaultjs)
 
-1.2.2.3 - [error.js](#3223---errorjs)
+1.2.2.3 - [error.js](#1223---errorjs)
 
-1.2.2.4 - [layout.js](#3224---layoutjs)
+1.2.2.4 - [layout.js](#1224---layoutjs)
 
-1.2.2.5 - [loading.js](#3225---loadingjs)
+1.2.2.5 - [loading.js](#1225---loadingjs)
 
-1.2.2.6 - [not-found.js](#3226---not-foundjs)
+1.2.2.6 - [not-found.js](#1226---not-foundjs)
 
-1.2.2.7 - [page.js](#3227---pagejs)
+1.2.2.7 - [page.js](#1227---pagejs)
 
-1.2.2.8 - [Route Segment Config](#3228---route-segment-config)
+1.2.2.8 - [Route Segment Config](#1228---route-segment-config)
 
-1.2.2.9 - [route.js](#3229---routejs)
+1.2.2.9 - [route.js](#1229---routejs)
 
-1.2.2.10 - [template.js](#32210---templatejs)
+1.2.2.10 - [template.js](#12210---templatejs)
 
-1.2.3 - [Functions](#323---functions)
+1.2.3 - [Functions](#123---functions)
 
-1.2.3.1 - [cookies](#3231---cookies)
+1.2.3.1 - [cookies](#1231---cookies)
 
-1.2.3.2 - [draftMode](#3232---draftmode)
+1.2.3.2 - [draftMode](#1232---draftmode)
 
-1.2.3.3 - [fetch](#3233---fetch)
+1.2.3.3 - [fetch](#1233---fetch)
 
-1.2.3.4 - [generateImageMetadata](#3234---generateimagemetadata)
+1.2.3.4 - [generateImageMetadata](#1234---generateimagemetadata)
 
-1.2.3.5 - [Metadata Object and generateMetadata Options](#3235---metadata-object-and-generatemetadata-options)
+1.2.3.5 - [Metadata Object and generateMetadata Options](#1235---metadata-object-and-generatemetadata-options)
 
-1.2.3.6 - [generateSitemaps](#3236---generatesitemaps)
+1.2.3.6 - [generateSitemaps](#1236---generatesitemaps)
 
-1.2.3.7 - [generateStaticParams](#3237---generatestaticparams)
+1.2.3.7 - [generateStaticParams](#1237---generatestaticparams)
 
-1.2.3.8 - [generateViewport](#3238---generateviewport)
+1.2.3.8 - [generateViewport](#1238---generateviewport)
 
-1.2.3.9 - [headers](#3239---headers)
+1.2.3.9 - [headers](#1239---headers)
 
-1.2.3.10 - [ImageResponse](#32310---imageresponse)
+1.2.3.10 - [ImageResponse](#12310---imageresponse)
 
-1.2.3.11 - [NextRequest](#32311---nextrequest)
+1.2.3.11 - [NextRequest](#12311---nextrequest)
 
-1.2.3.12 - [NextResponse](#32312---nextresponse)
+1.2.3.12 - [NextResponse](#12312---nextresponse)
 
-1.2.3.13 - [notFound](#32313---notfound)
+1.2.3.13 - [notFound](#12313---notfound)
 
-1.2.3.14 - [permanentRedirect](#32314---permanentredirect)
+1.2.3.14 - [permanentRedirect](#12314---permanentredirect)
 
-1.2.3.15 - [redirect](#32315---redirect)
+1.2.3.15 - [redirect](#12315---redirect)
 
-1.2.3.16 - [revalidatePath](#32316---revalidatepath)
+1.2.3.16 - [revalidatePath](#12316---revalidatepath)
 
-1.2.3.17 - [revalidateTag](#32317---revalidatetag)
+1.2.3.17 - [revalidateTag](#12317---revalidatetag)
 
-1.2.3.18 - [unstable_cache](#32318---unstable_cache)
+1.2.3.18 - [unstable_cache](#12318---unstable_cache)
 
-1.2.3.19 - [unstable_noStore](#32319---unstable_nostore)
+1.2.3.19 - [unstable_noStore](#12319---unstable_nostore)
 
-1.2.3.20 - [useParams](#32320---useparams)
+1.2.3.20 - [useParams](#12320---useparams)
 
-1.2.3.21 - [usePathname](#32321---usepathname)
+1.2.3.21 - [usePathname](#12321---usepathname)
 
-1.2.3.22 - [useReportWebVitals](#32322---usereportwebvitals)
+1.2.3.22 - [useReportWebVitals](#12322---usereportwebvitals)
 
-1.2.3.23 - [useRouter](#32323---userouter)
+1.2.3.23 - [useRouter](#12323---userouter)
 
-1.2.3.24 - [useSearchParams](#32324---usesearchparams)
+1.2.3.24 - [useSearchParams](#12324---usesearchparams)
 
-1.2.3.25 - [useSelectedLayoutSegment](#32325---useselectedlayoutsegment)
+1.2.3.25 - [useSelectedLayoutSegment](#12325---useselectedlayoutsegment)
 
-1.2.3.26 - [useSelectedLayoutSegments](#32326---useselectedlayoutsegments)
+1.2.3.26 - [useSelectedLayoutSegments](#12326---useselectedlayoutsegments)
 
-1.2.3.27 - [userAgent](#32327---useragent)
+1.2.3.27 - [userAgent](#12327---useragent)
 
-1.2.4 - [next.config.js Options](#324---nextconfigjs-options)
+1.2.4 - [next.config.js Options](#124---nextconfigjs-options)
 
-1.2.4.1 - [appDir](#3241---appdir)
+1.2.4.1 - [appDir](#1241---appdir)
 
-1.2.4.2 - [assetPrefix](#3242---assetprefix)
+1.2.4.2 - [assetPrefix](#1242---assetprefix)
 
-1.2.4.3 - [basePath](#3243---basepath)
+1.2.4.3 - [basePath](#1243---basepath)
 
-1.2.4.4 - [compress](#3244---compress)
+1.2.4.4 - [compress](#1244---compress)
 
-1.2.4.5 - [devIndicators](#3245---devindicators)
+1.2.4.5 - [devIndicators](#1245---devindicators)
 
-1.2.4.6 - [distDir](#3246---distdir)
+1.2.4.6 - [distDir](#1246---distdir)
 
-1.2.4.7 - [env](#3247---env)
+1.2.4.7 - [env](#1247---env)
 
-1.2.4.8 - [eslint](#3248---eslint)
+1.2.4.8 - [eslint](#1248---eslint)
 
-1.2.4.9 - [exportPathMap (Deprecated)](#3249---exportpathmap-deprecated)
+1.2.4.9 - [exportPathMap (Deprecated)](#1249---exportpathmap-deprecated)
 
-1.2.4.10 - [generateBuildId](#32410---generatebuildid)
+1.2.4.10 - [generateBuildId](#12410---generatebuildid)
 
-1.2.4.11 - [generateEtags](#32411---generateetags)
+1.2.4.11 - [generateEtags](#12411---generateetags)
 
-1.2.4.12 - [headers](#32412---headers)
+1.2.4.12 - [headers](#12412---headers)
 
-1.2.4.13 - [httpAgentOptions](#32413---httpagentoptions)
+1.2.4.13 - [httpAgentOptions](#12413---httpagentoptions)
 
-1.2.4.14 - [images](#32414---images)
+1.2.4.14 - [images](#12414---images)
 
-1.2.4.15 - [incrementalCacheHandlerPath](#32415---incrementalcachehandlerpath)
+1.2.4.15 - [incrementalCacheHandlerPath](#12415---incrementalcachehandlerpath)
 
-1.2.4.16 - [logging](#32416---logging)
+1.2.4.16 - [logging](#12416---logging)
 
-1.2.4.17 - [mdxRs](#32417---mdxrs)
+1.2.4.17 - [mdxRs](#12417---mdxrs)
 
-1.2.4.18 - [onDemandEntries](#32418---ondemandentries)
+1.2.4.18 - [onDemandEntries](#12418---ondemandentries)
 
-1.2.4.19 - [optimizePackageImports](#32419---optimizepackageimports)
+1.2.4.19 - [optimizePackageImports](#12419---optimizepackageimports)
 
-1.2.4.20 - [output](#32420---output)
+1.2.4.20 - [output](#12420---output)
 
-1.2.4.21 - [pageExtensions](#32421---pageextensions)
+1.2.4.21 - [pageExtensions](#12421---pageextensions)
 
-1.2.4.22 - [Partial Prerendering (experimental)](#32422---partial-prerendering-experimental)
+1.2.4.22 - [Partial Prerendering (experimental)](#12422---partial-prerendering-experimental)
 
-1.2.4.23 - [poweredByHeader](#32423---poweredbyheader)
+1.2.4.23 - [poweredByHeader](#12423---poweredbyheader)
 
-1.2.4.24 - [productionBrowserSourceMaps](#32424---productionbrowsersourcemaps)
+1.2.4.24 - [productionBrowserSourceMaps](#12424---productionbrowsersourcemaps)
 
-1.2.4.25 - [reactStrictMode](#32425---reactstrictmode)
+1.2.4.25 - [reactStrictMode](#12425---reactstrictmode)
 
-1.2.4.26 - [redirects](#32426---redirects)
+1.2.4.26 - [redirects](#12426---redirects)
 
-1.2.4.27 - [rewrites](#32427---rewrites)
+1.2.4.27 - [rewrites](#12427---rewrites)
 
-1.2.4.28 - [serverActions](#32428---serveractions)
+1.2.4.28 - [serverActions](#12428---serveractions)
 
-1.2.4.29 - [serverComponentsExternalPackages](#32429---servercomponentsexternalpackages)
+1.2.4.29 - [serverComponentsExternalPackages](#12429---servercomponentsexternalpackages)
 
-1.2.4.30 - [trailingSlash](#32430---trailingslash)
+1.2.4.30 - [trailingSlash](#12430---trailingslash)
 
-1.2.4.31 - [transpilePackages](#32431---transpilepackages)
+1.2.4.31 - [transpilePackages](#12431---transpilepackages)
 
-1.2.4.32 - [turbo (Experimental)](#32432---turbo-experimental)
+1.2.4.32 - [turbo (Experimental)](#12432---turbo-experimental)
 
-1.2.4.33 - [typedRoutes (experimental)](#32433---typedroutes-experimental)
+1.2.4.33 - [typedRoutes (experimental)](#12433---typedroutes-experimental)
 
-1.2.4.34 - [typescript](#32434---typescript)
+1.2.4.34 - [typescript](#12434---typescript)
 
-1.2.4.35 - [urlImports](#32435---urlimports)
+1.2.4.35 - [urlImports](#12435---urlimports)
 
-1.2.4.36 - [webVitalsAttribution](#32436---webvitalsattribution)
+1.2.4.36 - [webVitalsAttribution](#12436---webvitalsattribution)
 
-1.2.4.37 - [Custom Webpack Config](#32437---custom-webpack-config)
+1.2.4.37 - [Custom Webpack Config](#12437---custom-webpack-config)
 
-1.2.5 - [create-next-app](#325---create-next-app)
+1.2.5 - [create-next-app](#125---create-next-app)
 
-1.2.6 - [Edge Runtime](#326---edge-runtime)
+1.2.6 - [Edge Runtime](#126---edge-runtime)
 
-1.2.7 - [Next.js CLI](#327---nextjs-cli)
+1.2.7 - [Next.js CLI](#127---nextjs-cli)
 
-2 - [Architecture](#4---architecture)
+2 - [Architecture](#2---architecture)
 
-2.1 - [Accessibility](#41---accessibility)
+2.1 - [Accessibility](#21---accessibility)
 
-2.2 - [Fast Refresh](#42---fast-refresh)
+2.2 - [Fast Refresh](#22---fast-refresh)
 
-2.3 - [Next.js Compiler](#43---nextjs-compiler)
+2.3 - [Next.js Compiler](#23---nextjs-compiler)
 
-2.4 - [Supported Browsers](#44---supported-browsers)
+2.4 - [Supported Browsers](#24---supported-browsers)
 
-2.5 - [Turbopack](#45---turbopack)
+2.5 - [Turbopack](#25---turbopack)
 
 ---
 
