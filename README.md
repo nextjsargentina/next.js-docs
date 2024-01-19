@@ -122,67 +122,67 @@ cd nextjs-docs
 
 [1.1.6.1 - Image Optimization](/src/docs/app-router/1.1.6.md#1161---image-optimization)
 
-[1.1.6.2 - Font Optimization](/src/docs/app-router/1.md#1162---font-optimization)
+[1.1.6.2 - Font Optimization](/src/docs/app-router/1.1.6.md#1162---font-optimization)
 
-[1.1.6.3 - Script Optimization](/src/docs/app-router/1.md#1163---script-optimization)
+[1.1.6.3 - Script Optimization](/src/docs/app-router/1.1.6.md#1163---script-optimization)
 
-[1.1.6.4 - Metadata](/src/docs/app-router/1.md#1164---metadata)
+[1.1.6.4 - Metadata](/src/docs/app-router/1.1.6.md#1164---metadata)
 
-[1.1.6.5 - Static Assets](/src/docs/app-router/1.md#1165---static-assets)
+[1.1.6.5 - Static Assets](/src/docs/app-router/1.1.6.md#1165---static-assets)
 
-[1.1.6.6 - Lazy Loading](/src/docs/app-router/1.md#1166---lazy-loading)
+[1.1.6.6 - Lazy Loading](/src/docs/app-router/1.1.6.md#1166---lazy-loading)
 
-[1.1.6.7 - Analytics](/src/docs/app-router/1.md#1167---analytics)
+[1.1.6.7 - Analytics](/src/docs/app-router/1.1.6.md#1167---analytics)
 
-[1.1.6.8 - OpenTelemetry](/src/docs/app-router/1.md#1168---opentelemetry)
+[1.1.6.8 - OpenTelemetry](/src/docs/app-router/1.1.6.md#1168---opentelemetry)
 
-[1.1.6.9 - Instrumentation](/src/docs/app-router/1.md#1169---instrumentation)
+[1.1.6.9 - Instrumentation](/src/docs/app-router/1.1.6.md#1169---instrumentation)
 
-[1.1.6.10 - Third Party Libraries](/src/docs/app-router/1.md#11610---third-party-libraries)
+[1.1.6.10 - Third Party Libraries](/src/docs/app-router/1.1.6.md#11610---third-party-libraries)
 
-[1.1.7 - Configuring](/src/docs/app-router/1.md#117---configuring)
+[1.1.7 - Configuring](/src/docs/app-router/1.1.7.md#117---configuring)
 
-[1.1.7.1 - TypeScript](/src/docs/app-router/1.md#1171---typescript)
+[1.1.7.1 - TypeScript](/src/docs/app-router/1.1.7.md#1171---typescript)
 
-[1.1.7.2 - ESLint](/src/docs/app-router/1.md#1172---eslint)
+[1.1.7.2 - ESLint](/src/docs/app-router/1.1.7.md#1172---eslint)
 
-[1.1.7.3 - Environment Variables](/src/docs/app-router/1.md#1173---environment-variables)
+[1.1.7.3 - Environment Variables](/src/docs/app-router/1.1.7.md#1173---environment-variables)
 
-[1.1.7.4 - Absolute Imports and Module Path Aliases](/src/docs/app-router/1.md#1174---absolute-imports-and-module-path-aliases)
+[1.1.7.4 - Absolute Imports and Module Path Aliases](/src/docs/app-router/1.1.7.md#1174---absolute-imports-and-module-path-aliases)
 
-[1.1.7.5 - Markdown and MDX](/src/docs/app-router/1.md#1175---markdown-and-mdx)
+[1.1.7.5 - Markdown and MDX](/src/docs/app-router/1.1.7.md#1175---markdown-and-mdx)
 
-[1.1.7.6 - src Directory](/src/docs/app-router/1.md#1176---src-directory)
+[1.1.7.6 - src Directory](/src/docs/app-router/1.1.7.md#1176---src-directory)
 
-[1.1.7.7 - Draft Mode](/src/docs/app-router/1.md#1177---draft-mode)
+[1.1.7.7 - Draft Mode](/src/docs/app-router/1.1.7.md#1177---draft-mode)
 
-[1.1.7.8 - Content Security Policy](/src/docs/app-router/1.md#1178---content-security-policy)
+[1.1.7.8 - Content Security Policy](/src/docs/app-router/1.1.7.md#1178---content-security-policy)
 
-[1.1.8 - Testing](/src/docs/app-router/1.md#118---testing)
+[1.1.8 - Testing](/src/docs/app-router/1.1.8.md#118---testing)
 
-[1.1.8.1 - Setting up Vitest with Next.js](/src/docs/app-router/1.md#1181---setting-up-vitest-with-nextjs)
+[1.1.8.1 - Setting up Vitest with Next.js](/src/docs/app-router/1.1.8.md#1181---setting-up-vitest-with-nextjs)
 
-[1.1.8.2 - Setting up Jest with Next.js](/src/docs/app-router/1.md#1182---setting-up-jest-with-nextjs)
+[1.1.8.2 - Setting up Jest with Next.js](/src/docs/app-router/1.1.8.md#1182---setting-up-jest-with-nextjs)
 
-[1.1.8.3 - Setting up Playwright with Next.js](/src/docs/app-router/1.md#1183---setting-up-playwright-with-nextjs)
+[1.1.8.3 - Setting up Playwright with Next.js](/src/docs/app-router/1.1.8.md#1183---setting-up-playwright-with-nextjs)
 
-[1.1.8.4 - Setting up Cypress with Next.js](/src/docs/app-router/1.md#1184---setting-up-cypress-with-nextjs)
+[1.1.8.4 - Setting up Cypress with Next.js](/src/docs/app-router/1.1.8.md#1184---setting-up-cypress-with-nextjs)
 
-[1.1.9 - Deploying](/src/docs/app-router/1.md#119---deploying)
+[1.1.9 - Deploying](/src/docs/app-router/1.1.9.md#119---deploying)
 
-[1.1.9.1 - Static Exports](/src/docs/app-router/1.md#1191---static-exports)
+[1.1.9.1 - Static Exports](/src/docs/app-router/1.1.9.md#1191---static-exports)
 
-[1.1.10 - Upgrade Guide](/src/docs/app-router/1.md#1110---upgrade-guide)
+[1.1.10 - Upgrade Guide](/src/docs/app-router/1.1.10.md#1110---upgrade-guide)
 
-[1.1.10.1 - Codemods](/src/docs/app-router/1.md#11101---codemods)
+[1.1.10.1 - Codemods](/src/docs/app-router/1.1.10.md#11101---codemods)
 
-[1.1.10.2 - App Router Incremental Adoption Guide](/src/docs/app-router/1.md#11102---app-router-incremental-adoption-guide)
+[1.1.10.2 - App Router Incremental Adoption Guide](/src/docs/app-router/1.1.10.md#11102---app-router-incremental-adoption-guide)
 
-[1.1.10.3 - Version 14](/src/docs/app-router/1.md#11103---version-14)
+[1.1.10.3 - Version 14](/src/docs/app-router/1.1.10.md#11103---version-14)
 
-[1.1.10.4 - Migrating from Vite](/src/docs/app-router/1.md#11104---migrating-from-vite)
+[1.1.10.4 - Migrating from Vite](/src/docs/app-router/1.1.10.md#11104---migrating-from-vite)
 
-[1.2 - API Reference](/src/docs/app-router/1.md#12---api-reference)
+[1.2 - API Reference](/src/docs/app-router/1.2.md#12---api-reference)
 
 [1.2.1 - Components](#121---components)
 
