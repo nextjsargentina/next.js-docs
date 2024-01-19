@@ -384,10 +384,6 @@ cd nextjs-docs
 
 4.5 - [Turbopack](#45---turbopack)
 
-5 - [Next.js Community](#5---nextjs-community)
-
-5.1 - [Docs Contribution Guide](#51---docs-contribution-guide)
-
 ---
 
 ### 1 - Introduction
@@ -22015,7 +22011,7 @@ v13.2.0 @next/font renamed to next/font. Installation no longer required.
 v13.0.0 @next/font was added.
 ```
 
-### 3.2.1.2 - <Image>
+### 3.2.1.2 - Image
 
 Documentation path: /02-app/02-api-reference/01-components/image
 
@@ -23133,7 +23129,7 @@ v10.0.1 layout prop added.
 v10.0.0 next/image introduced.
 ```
 
-### 3.2.1.3 - <Link>
+### 3.2.1.3 - Link
 
 Documentation path: /02-app/02-api-reference/01-components/link
 
@@ -23690,7 +23686,7 @@ v8.0.0 Improved prefetching performance.
 v1.0.0 next/link introduced.
 ```
 
-### 3.2.1.4 - <Script>
+### 3.2.1.4 - Script
 
 Documentation path: /02-app/02-api-reference/01-components/script
 
