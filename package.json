@@ -1,0 +1,25 @@
+{
+  "name": "next.js-docs",
+  "version": "1.0.0",
+  "description": "Next.js v14 Docs (App-Router)",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emapeire/nextjs-docs.git"
+  },
+  "keywords": [
+    "nextjs",
+    "docs",
+    "v14",
+    "open-source",
+    "markdown",
+    "ai-training",
+    "pdf"
+  ],
+  "author": "Emanuel Peire",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emapeire/nextjs-docs/issues"
+  },
+  "homepage": "https://github.com/emapeire/nextjs-docs#readme"
+}
