@@ -58,7 +58,7 @@ cd nextjs-docs
 
 [1 - App Router](/src/docs/app-router/1.md#1---app-router)
 
-[1.1 - Building Your Application](/src/docs/app-router/1.md#11---building-your-application)
+[1.1 - Building Your Application](/src/docs/app-router/1.1.md#11---building-your-application)
 
 [1.1.1 - Routing Fundamentals](/src/docs/app-router/1.md#111---routing-fundamentals)
 
