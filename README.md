@@ -366,15 +366,15 @@ cd nextjs-docs
 
 [2 - Architecture](/src/docs/architecture/2.md#2---architecture)
 
-[2.1 - Accessibility](/src/docs/architecture/2.md#21---accessibility)
+[2.1 - Accessibility](/src/docs/architecture/2.1.md#21---accessibility)
 
-[2.2 - Fast Refresh](/src/docs/architecture/2.md#22---fast-refresh)
+[2.2 - Fast Refresh](/src/docs/architecture/2.2.md#22---fast-refresh)
 
-[2.3 - Next.js Compiler](/src/docs/architecture/2.md#23---nextjs-compiler)
+[2.3 - Next.js Compiler](/src/docs/architecture/2.3.md#23---nextjs-compiler)
 
-[2.4 - Supported Browsers](/src/docs/architecture/2.md#24---supported-browsers)
+[2.4 - Supported Browsers](/src/docs/architecture/2.4.md#24---supported-browsers)
 
-[2.5 - Turbopack](/src/docs/architecture/2.md#25---turbopack)
+[2.5 - Turbopack](/src/docs/architecture/2.5.md#25---turbopack)
 
 ---
 
