@@ -143,7 +143,7 @@ SWC can be used for compilation, minification, bundling, and more – and is des
 
 - Community: The Rust community and ecosystem are amazing and still growing.
 
-### Supported Features
+### Supported Features (Next.js Compiler)
 
 **Styled Components:**
 
@@ -454,7 +454,7 @@ module.exports = {
 
 `swcPlugins` accepts an array of tuples for configuring plugins. A tuple for the plugin contains the path to the plugin and an object for plugin configuration. The path to the plugin can be an npm module package name or an absolute path to the .wasm binary itself.
 
-### Unsupported Features
+### Unsupported Features (Next.js Compiler)
 
 When your application has a .babelrc file, Next.js will automatically fall back to using Babel for transforming individual files. This ensures backwards compatibility with existing applications that leverage custom Babel plugins.
 
@@ -523,7 +523,8 @@ If you would like to target specific browsers or features, Next.js supports Brow
 We inject widely used polyfills, including:
 
 - `fetch()` — Replacing: whatwg-fetch and unfetch.
-  URL — Replacing: the url package (Node.js API).
+
+- `URL` — Replacing: the url package (Node.js API).
 
 - `Object.assign()` — Replacing: object-assign, object.assign, and core-js/object/assign.
 
@@ -555,40 +556,37 @@ Next.js has built-in TypeScript support. Learn more [here](https://nextjs.org).
 
 **Customizing Babel Config (Advanced):**
 
-You can customize babel configuration. Learn more here.
+You can customize babel configuration. Learn more [here](https://nextjs.org).
 
-### 2.5 - Turbopack
+## 2.5 - Turbopack
 
-Documentation path: /04-architecture/turbopack
-
-**Description:** Turbopack is an incremental bundler optimized for JavaScript and TypeScript, written in Rust, and built into Next.js.
+**Turbopack is an incremental bundler optimized for JavaScript and TypeScript, written in Rust, and built into Next.js.**
 
 Turbopack (beta) is an incremental bundler optimized for JavaScript and TypeScript, written in Rust, and built into Next.js.
 
-##### Usage
+### Usage
 
-Turbopack can be used in Next.js in both the pages and app directories for faster local development. To enable Turbopack, use the --
+Turbopack can be used in Next.js in both the pages and app directories for faster local development. To enable Turbopack, use the `--turbo` flag when running the Next.js development server.
 
-turbo flag when running the Next.js development server.
+```json
+// package.json
 
-json filename="package.json" highlight={3} { "scripts": { "dev": "next dev --turbo", "build": "next
-
-build", "start": "next start", "lint": "next lint" } }
-
-##### Supported Features
-
-To learn more about the currently supported features for Turbopack, view the documentation.
-
-##### Unsupported Features
-
-Turbopack currently only supports next dev and does not support next build. We are currently working on support for builds as we
-
-move closer towards stability.
-
+{
+  "scripts": {
+    "dev": "next dev --turbo",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  }
+}
 ```
 
-```
+### Supported Features (Turbopack)
 
-```
+To learn more about the currently supported features for Turbopack, view the [documentation](https://nextjs.org).
 
-```
+### Unsupported Features (Turbopack)
+
+Turbopack currently only supports next dev and does not support next build. We are currently working on support for builds as we move closer towards stability.
+
+---
