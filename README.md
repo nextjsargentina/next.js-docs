@@ -184,185 +184,185 @@ cd nextjs-docs
 
 [1.2 - API Reference](/src/docs/app-router/1.2.md#12---api-reference)
 
-[1.2.1 - Components](#121---components)
+[1.2.1 - Components](/src/docs/app-router/1.2.1.md#121---components)
 
-[1.2.1.1 - Font Module](#1211---font-module)
+[1.2.1.1 - Font Module](/src/docs/app-router/1.2.1.md#1211---font-module)
 
-[1.2.1.2 - Image](#1212---image)
+[1.2.1.2 - Image](/src/docs/app-router/1.2.1.md#1212---image)
 
-[1.2.1.3 - Link](#1213---link)
+[1.2.1.3 - Link](/src/docs/app-router/1.2.1.md#1213---link)
 
-[1.2.1.4 - Script](#1214---script)
+[1.2.1.4 - Script](/src/docs/app-router/1.2.1.md#1214---script)
 
-[1.2.2 - File Conventions](#122---file-conventions)
+[1.2.2 - File Conventions](/src/docs/app-router/1.2.2.md#122---file-conventions)
 
-[1.2.2.1 - Metadata Files API Reference](#1221---metadata-files-api-reference)
+[1.2.2.1 - Metadata Files API Reference](/src/docs/app-router/1.2.2.md#1221---metadata-files-api-reference)
 
-[1.2.2.1.1 - favicon, icon, and apple-icon](#12211---favicon-icon-and-apple-icon)
+[1.2.2.1.1 - favicon, icon, and apple-icon](/src/docs/app-router/1.2.2.md#12211---favicon-icon-and-apple-icon)
 
-[1.2.2.1.2 - manifest.json](#12212---manifestjson)
+[1.2.2.1.2 - manifest.json](/src/docs/app-router/1.2.2.md#12212---manifestjson)
 
-[1.2.2.1.3 - opengraph-image and twitter-image](#12213---opengraph-image-and-twitter-image)
+[1.2.2.1.3 - opengraph-image and twitter-image](/src/docs/app-router/1.2.2.md#12213---opengraph-image-and-twitter-image)
 
-[1.2.2.1.4 - robots.txt](#12214---robotstxt)
+[1.2.2.1.4 - robots.txt](/src/docs/app-router/1.2.2.md#12214---robotstxt)
 
-[1.2.2.1.5 - sitemap.xml](#12215---sitemapxml)
+[1.2.2.1.5 - sitemap.xml](/src/docs/app-router/1.2.2.md#12215---sitemapxml)
 
-[1.2.2.2 - default.js](#1222---defaultjs)
+[1.2.2.2 - default.js](/src/docs/app-router/1.2.2.md#1222---defaultjs)
 
-[1.2.2.3 - error.js](#1223---errorjs)
+[1.2.2.3 - error.js](/src/docs/app-router/1.2.2.md#1223---errorjs)
 
-[1.2.2.4 - layout.js](#1224---layoutjs)
+[1.2.2.4 - layout.js](/src/docs/app-router/1.2.2.md#1224---layoutjs)
 
-[1.2.2.5 - loading.js](#1225---loadingjs)
+[1.2.2.5 - loading.js](/src/docs/app-router/1.2.2.md#1225---loadingjs)
 
-[1.2.2.6 - not-found.js](#1226---not-foundjs)
+[1.2.2.6 - not-found.js](/src/docs/app-router/1.2.2.md#1226---not-foundjs)
 
-[1.2.2.7 - page.js](#1227---pagejs)
+[1.2.2.7 - page.js](/src/docs/app-router/1.2.2.md#1227---pagejs)
 
-[1.2.2.8 - Route Segment Config](#1228---route-segment-config)
+[1.2.2.8 - Route Segment Config](/src/docs/app-router/1.2.2.md#1228---route-segment-config)
 
-[1.2.2.9 - route.js](#1229---routejs)
+[1.2.2.9 - route.js](/src/docs/app-router/1.2.2.md#1229---routejs)
 
-[1.2.2.10 - template.js](#12210---templatejs)
+[1.2.2.10 - template.js](/src/docs/app-router/1.2.2.md#12210---templatejs)
 
-[1.2.3 - Functions](#123---functions)
+[1.2.3 - Functions](/src/docs/app-router/1.2.3.md#123---functions)
 
-[1.2.3.1 - cookies](#1231---cookies)
+[1.2.3.1 - cookies](/src/docs/app-router/1.2.3.md#1231---cookies)
 
-[1.2.3.2 - draftMode](#1232---draftmode)
+[1.2.3.2 - draftMode](/src/docs/app-router/1.2.3.md#1232---draftmode)
 
-[1.2.3.3 - fetch](#1233---fetch)
+[1.2.3.3 - fetch](/src/docs/app-router/1.2.3.md#1233---fetch)
 
-[1.2.3.4 - generateImageMetadata](#1234---generateimagemetadata)
+[1.2.3.4 - generateImageMetadata](/src/docs/app-router/1.2.3.md#1234---generateimagemetadata)
 
-[1.2.3.5 - Metadata Object and generateMetadata Options](#1235---metadata-object-and-generatemetadata-options)
+[1.2.3.5 - Metadata Object and generateMetadata Options](/src/docs/app-router/1.2.3.md#1235---metadata-object-and-generatemetadata-options)
 
-[1.2.3.6 - generateSitemaps](#1236---generatesitemaps)
+[1.2.3.6 - generateSitemaps](/src/docs/app-router/1.2.3.md#1236---generatesitemaps)
 
-[1.2.3.7 - generateStaticParams](#1237---generatestaticparams)
+[1.2.3.7 - generateStaticParams](/src/docs/app-router/1.2.3.md#1237---generatestaticparams)
 
-[1.2.3.8 - generateViewport](#1238---generateviewport)
+[1.2.3.8 - generateViewport](/src/docs/app-router/1.2.3.md#1238---generateviewport)
 
-[1.2.3.9 - headers](#1239---headers)
+[1.2.3.9 - headers](/src/docs/app-router/1.2.3.md#1239---headers)
 
-[1.2.3.10 - ImageResponse](#12310---imageresponse)
+[1.2.3.10 - ImageResponse](/src/docs/app-router/1.2.3.md#12310---imageresponse)
 
-[1.2.3.11 - NextRequest](#12311---nextrequest)
+[1.2.3.11 - NextRequest](/src/docs/app-router/1.2.3.md#12311---nextrequest)
 
-[1.2.3.12 - NextResponse](#12312---nextresponse)
+[1.2.3.12 - NextResponse](/src/docs/app-router/1.2.3.md#12312---nextresponse)
 
-[1.2.3.13 - notFound](#12313---notfound)
+[1.2.3.13 - notFound](/src/docs/app-router/1.2.3.md#12313---notfound)
 
-[1.2.3.14 - permanentRedirect](#12314---permanentredirect)
+[1.2.3.14 - permanentRedirect](/src/docs/app-router/1.2.3.md#12314---permanentredirect)
 
-[1.2.3.15 - redirect](#12315---redirect)
+[1.2.3.15 - redirect](/src/docs/app-router/1.2.3.md#12315---redirect)
 
-[1.2.3.16 - revalidatePath](#12316---revalidatepath)
+[1.2.3.16 - revalidatePath](/src/docs/app-router/1.2.3.md#12316---revalidatepath)
 
-[1.2.3.17 - revalidateTag](#12317---revalidatetag)
+[1.2.3.17 - revalidateTag](/src/docs/app-router/1.2.3.md#12317---revalidatetag)
 
-[1.2.3.18 - unstable_cache](#12318---unstable_cache)
+[1.2.3.18 - unstable_cache](/src/docs/app-router/1.2.3.md#12318---unstable_cache)
 
-[1.2.3.19 - unstable_noStore](#12319---unstable_nostore)
+[1.2.3.19 - unstable_noStore](/src/docs/app-router/1.2.3.md#12319---unstable_nostore)
 
-[1.2.3.20 - useParams](#12320---useparams)
+[1.2.3.20 - useParams](/src/docs/app-router/1.2.3.md#12320---useparams)
 
-[1.2.3.21 - usePathname](#12321---usepathname)
+[1.2.3.21 - usePathname](/src/docs/app-router/1.2.3.md#12321---usepathname)
 
-[1.2.3.22 - useReportWebVitals](#12322---usereportwebvitals)
+[1.2.3.22 - useReportWebVitals](/src/docs/app-router/1.2.3.md#12322---usereportwebvitals)
 
-[1.2.3.23 - useRouter](#12323---userouter)
+[1.2.3.23 - useRouter](/src/docs/app-router/1.2.3.md#12323---userouter)
 
-[1.2.3.24 - useSearchParams](#12324---usesearchparams)
+[1.2.3.24 - useSearchParams](/src/docs/app-router/1.2.3.md#12324---usesearchparams)
 
-[1.2.3.25 - useSelectedLayoutSegment](#12325---useselectedlayoutsegment)
+[1.2.3.25 - useSelectedLayoutSegment](/src/docs/app-router/1.2.3.md#12325---useselectedlayoutsegment)
 
-[1.2.3.26 - useSelectedLayoutSegments](#12326---useselectedlayoutsegments)
+[1.2.3.26 - useSelectedLayoutSegments](/src/docs/app-router/1.2.3.md#12326---useselectedlayoutsegments)
 
-[1.2.3.27 - userAgent](#12327---useragent)
+[1.2.3.27 - userAgent](/src/docs/app-router/1.2.3.md#12327---useragent)
 
-[1.2.4 - next.config.js Options](#124---nextconfigjs-options)
+[1.2.4 - next.config.js Options](/src/docs/app-router/1.2.4.md#124---nextconfigjs-options)
 
-[1.2.4.1 - appDir](#1241---appdir)
+[1.2.4.1 - appDir](/src/docs/app-router/1.2.4.md#1241---appdir)
 
-[1.2.4.2 - assetPrefix](#1242---assetprefix)
+[1.2.4.2 - assetPrefix](/src/docs/app-router/1.2.4.md#1242---assetprefix)
 
-[1.2.4.3 - basePath](#1243---basepath)
+[1.2.4.3 - basePath](/src/docs/app-router/1.2.4.md#1243---basepath)
 
-[1.2.4.4 - compress](#1244---compress)
+[1.2.4.4 - compress](/src/docs/app-router/1.2.4.md#1244---compress)
 
-[1.2.4.5 - devIndicators](#1245---devindicators)
+[1.2.4.5 - devIndicators](/src/docs/app-router/1.2.4.md#1245---devindicators)
 
-[1.2.4.6 - distDir](#1246---distdir)
+[1.2.4.6 - distDir](/src/docs/app-router/1.2.4.md#1246---distdir)
 
-[1.2.4.7 - env](#1247---env)
+[1.2.4.7 - env](/src/docs/app-router/1.2.4.md#1247---env)
 
-[1.2.4.8 - eslint](#1248---eslint)
+[1.2.4.8 - eslint](/src/docs/app-router/1.2.4.md#1248---eslint)
 
-[1.2.4.9 - exportPathMap (Deprecated)](#1249---exportpathmap-deprecated)
+[1.2.4.9 - exportPathMap (Deprecated)](/src/docs/app-router/1.2.4.md#1249---exportpathmap-deprecated)
 
-[1.2.4.10 - generateBuildId](#12410---generatebuildid)
+[1.2.4.10 - generateBuildId](/src/docs/app-router/1.2.4.md#12410---generatebuildid)
 
-[1.2.4.11 - generateEtags](#12411---generateetags)
+[1.2.4.11 - generateEtags](/src/docs/app-router/1.2.4.md#12411---generateetags)
 
-[1.2.4.12 - headers](#12412---headers)
+[1.2.4.12 - headers](/src/docs/app-router/1.2.4.md#12412---headers)
 
-[1.2.4.13 - httpAgentOptions](#12413---httpagentoptions)
+[1.2.4.13 - httpAgentOptions](/src/docs/app-router/1.2.4.md#12413---httpagentoptions)
 
-[1.2.4.14 - images](#12414---images)
+[1.2.4.14 - images](/src/docs/app-router/1.2.4.md#12414---images)
 
-[1.2.4.15 - incrementalCacheHandlerPath](#12415---incrementalcachehandlerpath)
+[1.2.4.15 - incrementalCacheHandlerPath](/src/docs/app-router/1.2.4.md#12415---incrementalcachehandlerpath)
 
-[1.2.4.16 - logging](#12416---logging)
+[1.2.4.16 - logging](/src/docs/app-router/1.2.4.md#12416---logging)
 
-[1.2.4.17 - mdxRs](#12417---mdxrs)
+[1.2.4.17 - mdxRs](/src/docs/app-router/1.2.4.md#12417---mdxrs)
 
-[1.2.4.18 - onDemandEntries](#12418---ondemandentries)
+[1.2.4.18 - onDemandEntries](/src/docs/app-router/1.2.4.md#12418---ondemandentries)
 
-[1.2.4.19 - optimizePackageImports](#12419---optimizepackageimports)
+[1.2.4.19 - optimizePackageImports](/src/docs/app-router/1.2.4.md#12419---optimizepackageimports)
 
-[1.2.4.20 - output](#12420---output)
+[1.2.4.20 - output](/src/docs/app-router/1.2.4.md#12420---output)
 
-[1.2.4.21 - pageExtensions](#12421---pageextensions)
+[1.2.4.21 - pageExtensions](/src/docs/app-router/1.2.4.md#12421---pageextensions)
 
-[1.2.4.22 - Partial Prerendering (experimental)](#12422---partial-prerendering-experimental)
+[1.2.4.22 - Partial Prerendering (experimental)](/src/docs/app-router/1.2.4.md#12422---partial-prerendering-experimental)
 
-[1.2.4.23 - poweredByHeader](#12423---poweredbyheader)
+[1.2.4.23 - poweredByHeader](/src/docs/app-router/1.2.4.md#12423---poweredbyheader)
 
-[1.2.4.24 - productionBrowserSourceMaps](#12424---productionbrowsersourcemaps)
+[1.2.4.24 - productionBrowserSourceMaps](/src/docs/app-router/1.2.4.md#12424---productionbrowsersourcemaps)
 
-[1.2.4.25 - reactStrictMode](#12425---reactstrictmode)
+[1.2.4.25 - reactStrictMode](/src/docs/app-router/1.2.4.md#12425---reactstrictmode)
 
-[1.2.4.26 - redirects](#12426---redirects)
+[1.2.4.26 - redirects](/src/docs/app-router/1.2.4.md#12426---redirects)
 
-[1.2.4.27 - rewrites](#12427---rewrites)
+[1.2.4.27 - rewrites](/src/docs/app-router/1.2.4.md#12427---rewrites)
 
-[1.2.4.28 - serverActions](#12428---serveractions)
+[1.2.4.28 - serverActions](/src/docs/app-router/1.2.4.md#12428---serveractions)
 
-[1.2.4.29 - serverComponentsExternalPackages](#12429---servercomponentsexternalpackages)
+[1.2.4.29 - serverComponentsExternalPackages](/src/docs/app-router/1.2.4.md#12429---servercomponentsexternalpackages)
 
-[1.2.4.30 - trailingSlash](#12430---trailingslash)
+[1.2.4.30 - trailingSlash](/src/docs/app-router/1.2.4.md#12430---trailingslash)
 
-[1.2.4.31 - transpilePackages](#12431---transpilepackages)
+[1.2.4.31 - transpilePackages](/src/docs/app-router/1.2.4.md#12431---transpilepackages)
 
-[1.2.4.32 - turbo (Experimental)](#12432---turbo-experimental)
+[1.2.4.32 - turbo (Experimental)](/src/docs/app-router/1.2.4.md#12432---turbo-experimental)
 
-[1.2.4.33 - typedRoutes (experimental)](#12433---typedroutes-experimental)
+[1.2.4.33 - typedRoutes (experimental)](/src/docs/app-router/1.2.4.md#12433---typedroutes-experimental)
 
-[1.2.4.34 - typescript](#12434---typescript)
+[1.2.4.34 - typescript](/src/docs/app-router/1.2.4.md#12434---typescript)
 
-[1.2.4.35 - urlImports](#12435---urlimports)
+[1.2.4.35 - urlImports](/src/docs/app-router/1.2.4.md#12435---urlimports)
 
-[1.2.4.36 - webVitalsAttribution](#12436---webvitalsattribution)
+[1.2.4.36 - webVitalsAttribution](/src/docs/app-router/1.2.4.md#12436---webvitalsattribution)
 
-[1.2.4.37 - Custom Webpack Config](#12437---custom-webpack-config)
+[1.2.4.37 - Custom Webpack Config](/src/docs/app-router/1.2.4.md#12437---custom-webpack-config)
 
-[1.2.5 - create-next-app](#125---create-next-app)
+[1.2.5 - create-next-app](/src/docs/app-router/1.2.5.md#125---create-next-app)
 
-[1.2.6 - Edge Runtime](#126---edge-runtime)
+[1.2.6 - Edge Runtime](/src/docs/app-router/1.2.6.md#126---edge-runtime)
 
-[1.2.7 - Next.js CLI](#127---nextjs-cli)
+[1.2.7 - Next.js CLI](/src/docs/app-router/1.2.7.md#127---nextjs-cli)
 
 [2 - Architecture](/src/docs/architecture/2.md#2---architecture)
 
