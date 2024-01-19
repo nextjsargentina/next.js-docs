@@ -504,7 +504,7 @@ Next.js supports **modern browsers** with zero configuration.
 
 If you would like to target specific browsers or features, Next.js supports Browserslist configuration in your package.json file. Next.js uses the following Browserslist configuration by default:
 
-```json
+```js
 // package.json
 
 {
@@ -568,7 +568,7 @@ Turbopack (beta) is an incremental bundler optimized for JavaScript and TypeScri
 
 Turbopack can be used in Next.js in both the pages and app directories for faster local development. To enable Turbopack, use the `--turbo` flag when running the Next.js development server.
 
-```json
+```js
 // package.json
 
 {
