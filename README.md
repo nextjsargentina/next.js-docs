@@ -32716,7 +32716,3 @@ In order to diagnose installation issues, you can run next info --verbose to pri
 installation of next-related packages.
 
 ---
-
-# Want to contribute to the actual Next.js documentation?
-
-Please head over to their official repo at [next.js: contribution-guide](https://nextjs.org/docs/community/contribution-guide).
