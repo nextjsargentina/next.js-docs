@@ -364,17 +364,17 @@ cd nextjs-docs
 
 1.2.7 - [Next.js CLI](#127---nextjs-cli)
 
-2 - [Architecture](/src/docs/architecture/architecture.md#2---architecture)
+2 - [Architecture](/src/docs/architecture/2.md#2---architecture)
 
-2.1 - [Accessibility](/src/docs/architecture/architecture.md#21---accessibility)
+2.1 - [Accessibility](/src/docs/architecture/2.md#21---accessibility)
 
-2.2 - [Fast Refresh](/src/docs/architecture/architecture.md#22---fast-refresh)
+2.2 - [Fast Refresh](/src/docs/architecture/2.md#22---fast-refresh)
 
-2.3 - [Next.js Compiler](/src/docs/architecture/architecture.md#23---nextjs-compiler)
+2.3 - [Next.js Compiler](/src/docs/architecture/2.md#23---nextjs-compiler)
 
-2.4 - [Supported Browsers](/src/docs/architecture/architecture.md#24---supported-browsers)
+2.4 - [Supported Browsers](/src/docs/architecture/2.md#24---supported-browsers)
 
-2.5 - [Turbopack](/src/docs/architecture/architecture.md#25---turbopack)
+2.5 - [Turbopack](/src/docs/architecture/2.md#25---turbopack)
 
 ---
 
