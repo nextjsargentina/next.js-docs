@@ -378,6 +378,8 @@ cd nextjs-docs
 
 ---
 
+# 🔺 TODO: We are updating this documentation. Please create an issue if you want to contribute.
+
 ### 3.1.2 - Data Fetching
 
 Documentation path: /02-app/01-building-your-application/02-data-fetching/index
