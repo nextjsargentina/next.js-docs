@@ -37507,7 +37507,7 @@ Check color contrast ratios between foreground and background elements
 Use prefers-reduced-motion when working with animations
 ```
 
-### 5.2 - Fast Refresh
+### 4.2 - Fast Refresh
 
 Documentation path: /04-architecture/fast-refresh
 
@@ -37617,7 +37617,7 @@ easier for you to introduce new dependencies to it later on and it’s enforced 
 
 enabling.
 
-### 5.3 - Next.js Compiler
+### 4.3 - Next.js Compiler
 
 Documentation path: /04-architecture/nextjs-compiler
 
@@ -38035,7 +38035,7 @@ jsxImportSource.
 v12.0.0 Next.js Compiler introduced.
 ```
 
-### 5.4 - Supported Browsers
+### 4.4 - Supported Browsers
 
 Documentation path: /04-architecture/supported-browsers
 
@@ -38116,7 +38116,7 @@ Next.js has built-in TypeScript support. Learn more here.
 
 You can customize babel configuration. Learn more here.
 
-### 5.5 - Turbopack
+### 4.5 - Turbopack
 
 Documentation path: /04-architecture/turbopack
 
@@ -38143,6 +38143,10 @@ To learn more about the currently supported features for Turbopack, view the doc
 Turbopack currently only supports next dev and does not support next build. We are currently working on support for builds as we
 
 move closer towards stability.
+
+---
+
+TODO: review this!
 
 ### 6 - Next.js Community
 
