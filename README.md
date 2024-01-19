@@ -208,23 +208,23 @@ cd nextjs-docs
 
 [1.2.2.1.5 - sitemap.xml](/src/docs/app-router/1.2.2.1.md#12215---sitemapxml)
 
-[1.2.2.2 - default.js](/src/docs/app-router/1.2.2.2.md#1222---defaultjs)
+[1.2.2.2 - default.js](/src/docs/app-router/1.2.2.md#1222---defaultjs)
 
-[1.2.2.3 - error.js](/src/docs/app-router/1.2.2.3.md#1223---errorjs)
+[1.2.2.3 - error.js](/src/docs/app-router/1.2.2.md#1223---errorjs)
 
-[1.2.2.4 - layout.js](/src/docs/app-router/1.2.2.4.md#1224---layoutjs)
+[1.2.2.4 - layout.js](/src/docs/app-router/1.2.2.md#1224---layoutjs)
 
-[1.2.2.5 - loading.js](/src/docs/app-router/1.2.2.5.md#1225---loadingjs)
+[1.2.2.5 - loading.js](/src/docs/app-router/1.2.2.md#1225---loadingjs)
 
-[1.2.2.6 - not-found.js](/src/docs/app-router/1.2.2.6.md#1226---not-foundjs)
+[1.2.2.6 - not-found.js](/src/docs/app-router/1.2.2.md#1226---not-foundjs)
 
-[1.2.2.7 - page.js](/src/docs/app-router/1.2.2.7.md#1227---pagejs)
+[1.2.2.7 - page.js](/src/docs/app-router/1.2.2.md#1227---pagejs)
 
-[1.2.2.8 - Route Segment Config](/src/docs/app-router/1.2.2.8.md#1228---route-segment-config)
+[1.2.2.8 - Route Segment Config](/src/docs/app-router/1.2.2.md#1228---route-segment-config)
 
-[1.2.2.9 - route.js](/src/docs/app-router/1.2.2.9.md#1229---routejs)
+[1.2.2.9 - route.js](/src/docs/app-router/1.2.2.md#1229---routejs)
 
-[1.2.2.10 - template.js](/src/docs/app-router/1.2.2.10.md#12210---templatejs)
+[1.2.2.10 - template.js](/src/docs/app-router/1.2.2.md#12210---templatejs)
 
 [1.2.3 - Functions](/src/docs/app-router/1.2.3.md#123---functions)
 
