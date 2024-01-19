@@ -378,15 +378,15 @@ cd nextjs-docs
 
 ---
 
-# 🔺 TODO: We are updating this documentation. Please create an issue if you want to contribute.
+# 🔺 TODO: We are updating this documentation. Please create an [issue](https://github.com/emapeire/nextjs-docs/issues) if you want to contribute!
 
-### 3.1.2 - Data Fetching
+### 1.1.2 - Data Fetching
 
 Documentation path: /02-app/01-building-your-application/02-data-fetching/index
 
 **Description:** Learn how to fetch, cache, revalidate, and mutate data with Next.js.
 
-### 3.1.2.1 - Data Fetching, Caching, and Revalidating
+### 1.1.2.1 - Data Fetching, Caching, and Revalidating
 
 Documentation path: /02-app/01-building-your-application/02-data-fetching/01-fetching-caching-and-revalidating
 
