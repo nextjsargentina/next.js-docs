@@ -60,33 +60,33 @@ cd nextjs-docs
 
 [1.1 - Building Your Application](/src/docs/app-router/1.1.md#11---building-your-application)
 
-[1.1.1 - Routing Fundamentals](/src/docs/app-router/1.md#111---routing-fundamentals)
+[1.1.1 - Routing Fundamentals](/src/docs/app-router/1.1.1.md#111---routing-fundamentals)
 
-[1.1.1.1 - Defining Routes](/src/docs/app-router/1.md#1111---defining-routes)
+[1.1.1.1 - Defining Routes](/src/docs/app-router/1.1.1.md#1111---defining-routes)
 
-[1.1.1.2 - Pages and Layouts](/src/docs/app-router/1.md#1112---pages-and-layouts)
+[1.1.1.2 - Pages and Layouts](/src/docs/app-router/1.1.1.md#1112---pages-and-layouts)
 
-[1.1.1.3 - Linking and Navigating](/src/docs/app-router/1.md#1113---linking-and-navigating)
+[1.1.1.3 - Linking and Navigating](/src/docs/app-router/1.1.1.md#1113---linking-and-navigating)
 
-[1.1.1.4 - Route Groups](/src/docs/app-router/1.md#1114---route-groups)
+[1.1.1.4 - Route Groups](/src/docs/app-router/1.1.1.md#1114---route-groups)
 
-[1.1.1.5 - Dynamic Routes](/src/docs/app-router/1.md#1115---dynamic-routes)
+[1.1.1.5 - Dynamic Routes](/src/docs/app-router/1.1.1.md#1115---dynamic-routes)
 
-[1.1.1.6 - Loading UI and Streaming](/src/docs/app-router/1.md#1116---loading-ui-and-streaming)
+[1.1.1.6 - Loading UI and Streaming](/src/docs/app-router/1.1.1.md#1116---loading-ui-and-streaming)
 
-[1.1.1.7 - Error Handling](/src/docs/app-router/1.md#1117---error-handling)
+[1.1.1.7 - Error Handling](/src/docs/app-router/1.1.1.md#1117---error-handling)
 
-[1.1.1.8 - Parallel Routes](/src/docs/app-router/1.md#1118---parallel-routes)
+[1.1.1.8 - Parallel Routes](/src/docs/app-router/1.1.1.md#1118---parallel-routes)
 
-[1.1.1.9 - Intercepting Routes](/src/docs/app-router/1.md#1119---intercepting-routes)
+[1.1.1.9 - Intercepting Routes](/src/docs/app-router/1.1.1.md#1119---intercepting-routes)
 
-[1.1.1.10 - Route Handlers](/src/docs/app-router/1.md#11110---route-handlers)
+[1.1.1.10 - Route Handlers](/src/docs/app-router/1.1.1.md#11110---route-handlers)
 
-[1.1.1.11 - Middleware](/src/docs/app-router/1.md#11111---middleware)
+[1.1.1.11 - Middleware](/src/docs/app-router/1.1.1.md#11111---middleware)
 
-[1.1.1.12 - Project Organization and File Colocation](/src/docs/app-router/1.md#11112---project-organization-and-file-colocation)
+[1.1.1.12 - Project Organization and File Colocation](/src/docs/app-router/1.1.1.md#11112---project-organization-and-file-colocation)
 
-[1.1.1.13 - Internationalization](/src/docs/app-router/1.md#11113---internationalization)
+[1.1.1.13 - Internationalization](/src/docs/app-router/1.1.1.md#11113---internationalization)
 
 [1.1.2 - Data Fetching](/src/docs/app-router/1.1.2.md#112---data-fetching)
 
