@@ -1,4 +1,4 @@
-# Next.js v14 Documentation (App-Router docs) - [🚨 WIP]
+# Next.js v14 Documentation: App-Router - [🚨 WIP]
 
 ![nextjs14](/src/public/images/nextjs14.png)
 
