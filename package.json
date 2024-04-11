@@ -4,7 +4,7 @@
   "description": "Next.js v14 Docs (App-Router)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emapeire/nextjs-docs.git"
+    "url": "git+https://github.com/emapeire/next.js-docs.git"
   },
   "keywords": [
     "nextjs",
@@ -18,7 +18,7 @@
   "author": "Emanuel Peire",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/emapeire/nextjs-docs/issues"
+    "url": "https://github.com/emapeire/next.js-docs/issues"
   },
-  "homepage": "https://github.com/emapeire/nextjs-docs#readme"
+  "homepage": "https://github.com/emapeire/next.js-docs#readme"
 }
